@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @john-langlois
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any new exciting projects
-- 📫 How to reach me: @johnlanglois_ on instagram
+Software Engineering Student at Western University, Canada.
+Game and Web Development🎮🧑🏻‍💻
+Software Developer at Western Aero Design Club
+Instagram: @johnlanglois_
+Twitter: joao_langlois
 
 <!---
 john-langlois/john-langlois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
